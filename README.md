@@ -1,7 +1,11 @@
-## About me ✨
-<img width="200" src="/assets/hello.gif" align="right"/>
-- 🔭 I’m currently working on ...
-- 🌱 I'm 4th-year student at **University of Transport and Communications campus in HCMC**
+## About me ✨  
+<img width="200" src="./assets/hello.gif" align="right"/>
+
+- 🎓 I'm a 4th-year student at **University of Transport and Communications (Campus in HCMC)**  
+- 🤖 I'm on a journey to become an **AI Engineer** or a **Data Scientist**  
+- 🚀 I’m passionate about building intelligent systems using **Machine Learning** and **Deep Learning**  
+- 🧠 My interests include **Natural Language Processing**, **Computer Vision**, and **Generative AI**  
+- 📈 Currently exploring real-world projects to sharpen my skills in AI and data  
 - 📫 How to reach me **phatnguyen102.dev@gmail.com**
 
 <summary><h2>💻 Languages and Tools</h2></summary>
