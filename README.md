@@ -13,29 +13,30 @@
 <div align="center">
 
 <!-- 👨‍💻 Programming Languages -->
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS"/></code>
 
 <!-- 📊 Data & AI Libraries -->
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/matplotlib.png" alt="Matplotlib" title="Matplotlib"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/seaborn.png" alt="Seaborn" title="Seaborn"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scikit_learn.png" alt="Scikit-learn" title="Scikit-learn"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib"/></code>
+<code><img width="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" title="Seaborn"/></code>
+<code><img width="50" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" title="Scikit-learn"/></code>
 
 <!-- 🤖 Machine Learning / DL -->
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pytorch.png" alt="PyTorch" title="PyTorch"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch"/></code>
 
 <!-- 🧪 Tools & Workflow -->
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter.png" alt="Jupyter" title="Jupyter Notebook"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/></code>
 
 <!-- 🛢️ Database -->
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" title="SQLite"/></code>
 
 </div>
+
