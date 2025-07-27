@@ -1,11 +1,12 @@
 ## Hi there 👋, I'm Nguyen Tan Phat 
-## About me ✨  
 <img width="150" src="./assets/hello.gif" align="right"/>
 
-- 🎓 I'm a 4th-year student at **University of Transport and Communications (Campus in HCMC)**.
+- 🎓 I'm a 4th-year Information Technology student at **University of Transport and Communications (Campus in HCMC)**.
 - 🚀 I’m passionate about building products that incorporate **artificial intelligence**.  
 - 📈 Currently exploring real-world projects to sharpen my skills in AI and data.
-- 📫 How to reach me
+- 💪 NO PAIN NO GAIN
+
+## How to reach me 📫
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyentanphat55/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
