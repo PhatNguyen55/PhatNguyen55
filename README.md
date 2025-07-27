@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Nguyen Tan Phat 
 ## About me ✨  
-<img width="200" src="./assets/hello.gif" align="right"/>
-
 - 🎓 I'm a 4th-year student at **University of Transport and Communications (Campus in HCMC)**   
 - 🚀 I’m passionate about building products that incorporate **artificial intelligence**.  
 - 📈 Currently exploring real-world projects to sharpen my skills in AI and data  
@@ -18,7 +16,7 @@
   </a>
 </p>
 
-<summary><h2>💻 Languages and Tools</h2></summary>
+## 💻 Languages and Tools
 ### 👨‍💻 Programming Languages
 <div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
