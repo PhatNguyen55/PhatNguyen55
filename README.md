@@ -19,12 +19,14 @@
 </p>
 
 <summary><h2>💻 Languages and Tools</h2></summary>
-<div align="center">
 ### 👨‍💻 Programming Languages
+<div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code>
+</div>
 
 ### 📊 Framework & Libraries
+<div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib"/></code>
@@ -32,8 +34,10 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/></code>
+</div>
 
 ### Others
+<div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter Notebook"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>>
